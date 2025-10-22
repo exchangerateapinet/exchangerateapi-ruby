@@ -12,7 +12,7 @@ Small Ruby client for exchangerateapi.net with straightforward methods and no ex
 ## Installation
 
 ```bash
-gem install exchangerateapi-ruby
+gem install exchangerateapinet
 ```
 
 ## Quick start

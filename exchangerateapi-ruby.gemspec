@@ -3,7 +3,7 @@
 require_relative "lib/exchangerateapi/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "exchangerateapi-ruby"
+  spec.name          = "exchangerateapinet"
   spec.version       = Exchangerateapi::VERSION
   spec.authors       = ["exchangerateapinet"]
   spec.summary       = "Ruby client for exchangerateapi.net"
