@@ -14,5 +14,11 @@ Gem::Specification.new do |spec|
 
   spec.files         = Dir["lib/**/*", "README.md", "LICENSE"]
   spec.require_paths = ["lib"]
-  spec.homepage      = "https://github.com/exchangerateapinet/exchangerateapi-ruby"
+  spec.homepage      = "https://exchangerateapi.net"
+  spec.metadata = {
+    "homepage_uri"   => "https://exchangerateapi.net",
+    "source_code_uri" => "https://github.com/exchangerateapinet/exchangerateapi-ruby",
+    "bug_tracker_uri" => "https://github.com/exchangerateapinet/exchangerateapi-ruby/issues",
+    "documentation_uri" => "https://github.com/exchangerateapinet/exchangerateapi-ruby#readme"
+  }
 end
