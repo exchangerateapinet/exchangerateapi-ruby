@@ -1,5 +1,10 @@
 # exchangerateapi-ruby
 
+[![Gem Version](https://img.shields.io/gem/v/exchangerateapi-ruby.svg)](https://rubygems.org/gems/exchangerateapi-ruby)
+[![Downloads](https://img.shields.io/gem/dt/exchangerateapi-ruby.svg)](https://rubygems.org/gems/exchangerateapi-ruby)
+[![GitHub release](https://img.shields.io/github/v/release/exchangerateapinet/exchangerateapi-ruby?display_name=tag&sort=semver)](https://github.com/exchangerateapinet/exchangerateapi-ruby/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Small Ruby client for exchangerateapi.net with straightforward methods and no external dependencies.
 
 - Website: [exchangerateapi.net](https://exchangerateapi.net)
